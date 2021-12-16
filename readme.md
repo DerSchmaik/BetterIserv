@@ -1,5 +1,5 @@
 # Iserv Darkmode
-Ein Darkmode für Iserv, welchen ich vor einiger Zeit geschrieben habe.
+Ein Darkmode für Iserv, welchen ich vor einiger Zeit geschrieben habe. Wenn du das Projekt erweitern oder verbessern möchtest stell gerne ein PR oder einen Fork.
 ![Screenshot 2021-12-16 173726](https://user-images.githubusercontent.com/47828495/146412379-63a34780-e53d-4e2a-b148-bcbdef506ef7.png)
 
 ## Einrichtung (Chrome)
